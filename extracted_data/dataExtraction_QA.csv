@@ -1,0 +1,364 @@
+Covidence #,Study ID,Title,Reviewer Name,Author (year),Title,Type of study,"Predictive or prognostic, or both?",Country and ethnicity (if provided),Inclusion & exclusion criteria,Source of data,Recruitment method,Sample size,Mean age (SD & age range),Mean refractive error (SD & range),Mean axial length (SD & range),Refraction method,Axial length measurement method,Sex breakdown,Study dates,Imaging modalities,Definition of PM onset,Definition of PM progression,Grading protocol,Was the same outcome (definition of PM onset & progression) applied similarly to everyone analysed?,Number of follow-up(s),Mean (SD & range) follow-up length,List all the risk factors,List all the prognostic factors,Timing of risk factor measurement,Timing of prognostic factor measurement,Were RISK factors measured by someone who was blinded to the outcome?,Were PROGNOSTIC factors measured by someone who was blinded to the outcome?,Was there a multivariable analysis for risk factors?,"If yes answered Yes to above, what factors/ variables were included in the multivariable analysis (state separately if there are more than one multivariable analyses)?",Was there a multivariable analysis for prognostic factors?,"If yes answered Yes to above, what factors/ variables were included in the multivariable analysis (state separately if there are more than one multivariable analyses)?",Detail participant flow diagram,"For EACH risk factor, please give the number of participants with missing data (and reason for missing data, if applicable and if given)","For EACH prognostic factor, please give the number of participants with missing data (and reason for missing data, if applicable and if given)",How was missing data on risk and/or prognostic factors handled?,What statistical tool(s) was employed?,What were the effect measures?,Please give the ADJUSTED effect measure for each risk factor,Please give the ADJUSTED effect measure for each prognostic factor,Please give the UNADJUSTED effect measure for each risk factor,Please give the UNADJUSTED effect measure for each prognostic factor,1.	Study participation,1.	Study participation supporting text,2.	Study attrition,2.	Study attrition supporting text,3.	Risk/ prognostic factor measurement,3.	Risk/ prognostic factor measurement supporting text,4.	Outcome measurement,4.	Outcome measurement supporting text,5.	Adjustment for core risk/ prognostic factors,5.	Adjustment for core risk/ prognostic factors supporting text,6.	Statistical analysis and reporting,6.	Statistical analysis and reporting supporting text
+537,Foo 2022,Predictors of myopic macular degeneration in a 12-year longitudinal study of Singapore adults with myopia,Consensus,Foo et al. (2022),Predictors of myopic macular degeneration in a 12-year longitudinal study of Singapore adults with myopia,"Case-control study nested within population-based cohort studies; where cases refer to those who experienced PM onset or progression, while controls are those who did not experience PM onset/progression. This is NOT a retrospective cohort study because participants were NOT sampled on the basis of exposures (they were selected and compared on the basis of outcome, such that those with a specific outcome don't necessarily have the same level of exposure)",Both,Singapore (Malays and Indians),"Inclusion: myopia at baseline (SER≤-0.50D); aged 40 years or older
+
+Exclusion: missing MMD grading at baseline and/or at 12-year follow-up visit due to poor quality or absence of fundus photos; terminally ill (e.g., terminal cancer)",population-based cohort studies (Singapore Malay Eye Study and Singapore Indian Eye Study) where study samples were representative of the general population in Singapore,"The Singapore Malay eye study (SiMES):
+From a list of names provided by the Ministry of Home Affairs, age-stratified random sampling was used
+[citation nr. 16]
+
+Singapore Indian Chinese Cohort (SICC) eye study:
+From a list of names provided by the Ministry of Home Affairs, age-stratified random sampling was used 
+[citation nr. 18]","Whole group: 1579 eyes of 836 patients
+
+For PM onset: 1504 eyes of 789 px (721 Malays and 783 Indians).
+
+For PM progression: 75 eyes of 47 px (48 Malays and 27 Indians)","For PM onset: 51.9 ± 7.8 (range probably from 40 to 80, i.e. whole sample)
+
+For PM onset: 57.5 ± 8.7 (range probably from 40 to 80, i.e. whole sample)","For PM onset: -1.9 ± 2.1D.
+
+For PM progression: -6.4 ± 4.6D.","For PM onset: 24.1 ± 1.2mm.
+
+For PM progression: 26.4 ± 2.2mm","Autorefraction was performed using an autorefractometer (Model RK5; Canon, Tochigiken, Japan). Refraction was then subjectively refined by the study optometrists until the best corrected visual acuity was obtained.","IOL Master V.3.01; Carl Zeiss Meditec, Jena, Germany","Whole group: 736 male eyes and 843 female eyes
+
+For PM onset: 704 male eyes and 800 female eyes.
+
+For PM progression: 32 male eyes and 43 female eyes.","For Singapore Malay Eye Study: 2004 to 2018
+Singapore Indian Eye Study: 2007 to present","Colour fundus photography (centred on disc and centred on fovea); non-mydriatic retinal camera (Canon CR-DGi with 10D SLR back; Canon, Tokyo, Japan)","PM was defined as category 2,3 or 4, or any plus lesion (LC, FS, mCNV). PM onset was defined as the development of PM at 12-year FU in eyes without PM at baseline.","In eyes with PM, an increase from META-PM category grade 2 or 3 at baseline to either grade 3 or 4 and/or expansion of existing chorioretinal atrophy, development of a plus lesion or enlargement of an existing plus lesion at 12-year follow-up. The expansion of existing chorioretinal atrophy or plus lesion was defined by an enlargement of the area of chorioretinal atrophy or plus lesion by more than 50%. The area of the chorioretinal atrophy was assessed by ImageJ software.","A single trained grader (WYL), previously shown to be comparable with grading by a trained retinal specialist, graded each fundus photo. Grader was masked to subject's characteristics.",Yes,2 follow ups: 1 after 6 years and the other after 12 years,12 years (mean and SD not reported) but can be assumed to have very small variation from ±12,"baseline age (cont); 
+ethnicity (Malay and Indian); 
+Sex; 
+education level (two levels: primary/lower education & secondary/above education); 
+baseline SE (cont; per 1D); 
+baseline AL (cont; per 1mm); 
+tessellated fundus at baseline (binary)","baseline age (cont); 
+ethnicity (Malay and Indian); 
+Sex; 
+education level (two levels: primary/lower education & secondary/above education); 
+baseline SE (cont; per 1D); 
+baseline AL (cont; per 1mm)",appropriate time interval (since the data were from cohort studies with very strict timeframe),appropriate time interval (since the data were from cohort studies with very strict timeframe),Yes,Yes,Yes,"1st model: age, gender, ethnicity, education level, tessellated fundus and SE and for correlation between eyes in each individual
+
+2nd model: age, gender, ethnicity, education level, tessellated fundus and AL and for correlation between eyes in each individual",Yes,"1st model: age, gender, ethnicity, education level and SE and for correlation between eyes in each individual
+
+2nd model: age, gender, ethnicity, education level and AL and for correlation between eyes in each individual",6680 participants at baseline —> 859 subjects attended 12-year FU —> only 828 subjects (1656 eyes) were myopic at baseline —> 77 eyes were excluded due to missing PM grading at baseline and/or at 12-year FU due to poor quality or absence of fundus photos —>1579 eyes finally included,All included/ analysed factors had complete data (n=1504) EXCEPT baseline SE (5 missing) and baseline AL (26 missing); reasons not given,All included/ analysed factors had complete data (n=1504) EXCEPT baseline AL (6 missing); reasons not given,"Not reported, but assumed to be complete-case analysis",Multivariable poisson regression,relative risk (aka risk ratio),"baseline age per 1 year: 1.03 (95% CI: 1.03 to 1.04, p<0.001)
+Indian (Malay as reference): 0.77 (95% CI: 0.69 to 0.85, p<0.001) 
+female (male as reference): 1.11 (95% CI: 0.99 to 1.23, p=0.06)
+secondary/ above education (primary/lower education as reference): 1.08 (95% CI: 0.99 to 1.23, p=0.18)
+baseline SE per 1D: 0.93 (95% CI: 0.89 to 0.96, p<0.001)
+baseline AL per 1mm: 1.18 (95% CI: 1.14 to 1.24, p<0.001)
+tessellated fundus at baseline: 2.50 (95% CI: 2.22 to 2.80, p<0.001)
+
+PS: two multivariable models, i.e. one adjusted for AL, the other adjusted for SE where all presented variables (apart from baseline SE) were adjusted for baseline SE (not baseline AL)","baseline age per 1 year: 1.05 (95% CI: 1.01 to 1.09, p=0.02)
+Indian (Malay as reference): 0.84 (95% CI: 0.27 to 2.67, p=0.77) 
+female (male as reference): 0.80 (95% CI: 0.20 to 3.25, p=0.75)
+secondary/ above education (primary/lower education as reference): 1.23 (95% CI: 0.36 to 4.23, p=0.745)
+baseline SE per 1D: 0.80 (95% CI: 0.70 to 0.90, p<0.001)
+baseline AL per 1mm: 2.02 (95% CI: 1.49 to 2.74, p<0.001)
+
+PS: two multivariable models, i.e. one adjusted for AL, the other adjusted for SE where all presented variables (apart from baseline SE) were adjusted for baseline SE (not baseline AL)","baseline age per 1 year: 1.04 (95% CI: 1.03 to 1.05, p<0.001)
+Indian (Malay as reference): 0.74 (95% CI: 0.65 to 0.84, p<0.001) 
+female (male as reference): 1.07 (95% CI: 0.94 to 1.22, p=0.29)
+secondary/ above education (primary/lower education as reference): 0.98 (95% CI: 0.86 to 1.12, p=0.76)
+baseline SE per 1D: 0.91 (95% CI: 0.89 to 0.92, p<0.001)
+baseline AL per 1mm: 1.27 (95% CI: 1.22 to 1.33, p<0.001)
+tessellated fundus at baseline: 3.01 (95% CI: 2.67 to 3.38, p<0.001)
+
+","baseline age per 1 year: 0.97 (95% CI: 0.92 to 1.04, p=0.402)
+Indian (Malay as reference): 0.90 (95% CI: 0.18 to 4.47, p=0.89) 
+female (male as reference): 0.98 (95% CI: 0.23 to 4.23, p=0.98)
+secondary/ above education (primary/lower education as reference): 1.56 (95% CI: 0.39 to 6.19, p=0.53)
+baseline SE per 1D: 0.84 (95% CI: 0.78 to 0.90, p<0.001)
+baseline AL per 1mm: 1.73 (95% CI: 1.21 to 2.49, p=0.003)",LOW risk of bias,"SiMES-1 study has a participation rate of 78.7% which is way higher than the moderate ROB cutoff of 67%, while SINDI study has a participation rate of 75.6%, also way higher than the cutoff.
+",HIGH risk of bias,"In the original cohorts (SiMES & SINDI) from which the study participants were sampled from, 6680 participated in the baseline examination, but only 859 remained after 12 years. Attrition rate is therefore 87.1% which is way higher than our high ROB (for follow-up>10y) cutoff of 40%. No information whatsoever on reasons for loss to follow-up, including number of deaths, etc, which precluded the calculation of participation rate among eligible (w.g. not due to death) participants. Therefore, we cannot rule out the possibility of potential bias to the observed relationship between investigated factors and outcomes.",LOW risk of bias,"For PM onset: Only 5 with missing baseline SE and 26 with missing baseline AL out of n=1504. Although reasons not given, this is not likely to be an issue.
+
+For PM progression: Only had missing baseline AL data out of n=1504; reasons not given. Not likely to be an issue.",LOW risk of bias,"",LOW risk of bias,complete-case analysis to deal with missing data; appropriate as the size of missing data is proportionally small,LOW risk of bias,"Multivariable model includes variables that have conceptual association with PM like baseline AL, ethnicity, etc. so spurious or selective reporting unlikely."
+286,Fang 2018,Progression of Myopic Maculopathy during 18-Year Follow-up.,Consensus,Fang (2018),Progression of Myopic Maculopathy during18-Year Follow-up,"Case-control study, i.e. selection is based on the outcome. The study started with a progression group and no progression group among those with PM at baseline and retrospectively collected their exposures at baseline. PS: Although the paper is stated to be a case-series study: it really is not, i.e. see, for instance https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5513097/pdf/12874_2017_Article_391.pdf ",Both,"Tokyo, Japan (Japanese)","Inclusion: follow-up period at least 10 years; high myopes (refractive error <-4D if younger than 5 years of age; refractive error <-6D if between 5 and 8 y/o; otherwise, refractive error < -8D or AL ≥26.5)
+
+Exclusion: retinal or choroidal disorders other than PM, such as diabetic retinopathy; retinal vascular diseases, including retinal vein occlusions and age-related macular degeneration; poor quality of fundus photographs; and a history of Vitreoretinal surgery",Medical records at High Myopia Clinic of Tokyo Medical and Dental University,Study analysed real-world clinical data retrospectively,"810 eyes (432 patients) in total. 
+For PM onset: 289 eyes (177 patients) without PM at baseline.
+For PM progression: 521 eyes (310 patients) with PM at baseline","Whole group: 43.2 ± 16.8 (3 to 85)
+PM onset group (without PM at baseline): 32.4 ± 16.5 (3 to 85)
+PM progression group (with PM at baseline): 47.7 ± 14.2 (7 to 76)",Whole group: -13.2 ± 4.8 (-4.8 to -37.0),"whole group: 28.8 ± 1.9 (24.2 to 34.3)
+PM onset: 27.6 ± 1.4 (24.2 to 31.1).
+PM progression: 29.4 ± 1.8 (25.1 to 34.3)",Not mentioned,"A-scan ultrasonography (Ultrascan; Alcon, Fort Worth, Texas) before 2008; after 2008, IOLMaster (Carl Zeiss, Co, Oberkochen, Germany)","Whole group: 80 males & 352 females (432 patients).
+
+PM progression (with PM at baseline):
+353 female eyes and 168 male eyes. 
+
+PM onset (without PM at baseline):
+175 female eyes and 
+114 male eyes
+",varied because retrospective; not reported,"colour fundus photography under mydriasis, fluorescein angiography","Staphyloma was not part of the definition. Fuchs spot was analysed as scar stage of mCNV. Definition of onset was no PM at baseline: no mCNV or LCs and myopic maculopathy at category 1 or lower, but developing PM at one of the follow-up visits.","Staphyloma was not part of the definition. Fuchs spot was analysed as scar stage of mCNV. Definition of progression was: among those with PM at baseline,  an increase in the category of myopic maculopathy, development of a (new?) plus lesion, enlargement of a patchy atrophy or macular atrophy, increase in the number of lesions, or progression of peripapillary diffuse choroidal atrophy to macular diffuse choroidal atrophy, which was the only criteria for enlargement of diffuse atrophy at follow-up. Qualitative comparison only.","All fundus photographs obtained at the initial visit and at the last visit were examined independently by 3 specialists (Y.F., N.N., K.O.-M.). Int he case of disagreement, a panel decision for final agreement was made.",Yes,At least 1 but varied among patients,"Whole group: 18.7 ± 7.1 (10 to 37).
+
+PM onset: 19.5 ± 6.8 (10 to 33)
+PM.
+
+PM progression: 18.3 ± 7.2 (10 to 37)","Gender; age (cont); baseline AL (cont); baseline BCVA (cont; logMAR); increase in AL (cont) between first and last visit (if more than one follow-up visits, the first visit where PM was noted); development or enlargement of parapapillary gamma/ delta zone (at follow-up); follow-up duration (cont)
+","Gender; age (cont); baseline AL (cont); baseline BCVA (cont; logMAR); increase in AL (cont) between first and last visit (if more than one follow-up visits, the first visit where PM was noted); development or enlargement of parapapillary gamma/ delta zone (at follow-up); follow-up duration (cont)",All baseline risk factors (apart from the longitudinal ones) can be assumed to be have appropriate time interval as all baseline measurements were taken on the same day,All baseline prognostic factors (apart from the longitudinal ones) can be assumed to be have appropriate time interval as all baseline measurements were taken on the same day,Other: Yes,Yes,Yes,"Authors used backward stepwise method where the least significant risk factor was removed at each stage until some stopping criterion was met (not detailed). Hence, they only reported the results for the final multivariable logistic regression model. 
+
+Sex, baseline age (cont), baseline AL (cont), increase in AL (FU-baseline, cont), development/enlargement of parapapillary gamma/delta zone (FU-baseline, binary), duration of follow-up (cont) and myopic maculopathy category at baseline (binary; category 0 or category 1).",Yes,"Authors used backward stepwise method where the least significant prognostic factor was removed at each stage until some stopping criterion was met (not detailed). Hence, they only reported the results for the final model.
+
+Sex, baseline age (cont), baseline AL (cont), increase in AL (FU-baseline, cont), development/enlargement of parapapillary gamma/delta zone (FU-baseline, binary), duration of follow-up (cont).",3236 px examined at least once —> 2610 px with at least 1 follow-up —> 505px (957 eyes) follow-up duration at least 10 years —> 147 eyes excluded because of other chorioretinal lesions other than PM —> giving the final number of 810 eyes (432px),unclear,unclear,unclear if there were missing data,multivariable logistic regression (where final independent variables were chosen using the backward stepwise method); progression/ onset of PM as dependent variable (binary),(adjusted) Odds ratio,"female: p=0.52
+baseline age (cont): 1.06 (95% CI: 1.04 to 1.09, p<0.001)
+baseline AL (cont): 1.66 (95% CI: 1.24 to 2.23, p=0.001)
+increase in AL (cont): 2.26 (95% CI: 1.64 to 3.12, p<0.001)
+development/enlargement of gamma/delta zone at FU: 16.0 (95% CI: 5.55 to 46.2, p<0.001)
+duration of FU: p=0.12
+baseline myopic maculopathy category (0 or 1): p=0.62","female: 2.21 (95% CI: 1.41 to 3.49, p=0.001)
+baseline age (cont): 1.03 (95% CI: 1.01 to 1.04, p=0.002)
+baseline AL (cont): 1.20 (95% CI: 1.05 to 1.37, p=0.007)
+increase in AL (cont): 1.45 (95% CI: 1.12 to 1.88, p=0.005)
+development/enlargement of gamma/delta zone at FU: 3.14 (95% CI: 1.85 to 5.32, p<0.001)
+duration of FU: p=0.29",not given,Not given,MODERATE risk of bias,"As the study sample was derived from clinical records at a secondary care clinic specific to high myopes, rather than from a population-based cohort study, participants in the study cannot be reasonably assumed to be reflect the characteristics of high myopes in the general population. A moderate risk of bias is given as opposed to high because the authors adequately addressed other potential sources of bias listed in this domain.","",N/A because this is a purely retrospective study that utilised past medical record,LOW risk of bias,"Unclear if there were any missing data for RF or PF variables, but can be assumed to be minimal or absent because these factors are reasonably easy to collect and are considered fundamental in clinical practice: sex, baseline age and baseline AL.",LOW risk of bias,"",LOW risk of bias,"",LOW risk of bias,"Authors used backward stepwise elimination method for model building, but they did not report the stopping criterion. However, given that the variables included in their final multivariable model are based on reasonable conceptual framework, there is a low risk that the reported results are spurious or biased."
+279,Lin 2018,Five-year incidence and progression of myopic maculopathy in a rural Chinese adult population: the Handan Eye Study.,Consensus,Lin et al. (2018),Five-year incidence and progression of myopic maculopathy in a rural Chinese adult population: the Handan Eye Study.,Case-control study nested in a rural-population-based cohort study,Other: Prognostic (progression); risk factors not looked at due to limited number of cases with PM onset,"Handan City (Hebei), China (Chinese)",Inclusion: ≥30 years old; available data at baseline and FU; gradable fundus photos at baseline and FU; myopia (SER<-0.50D),rural-population-based cohort study called Handan Eye Study,"participants who took part in the baseline study described in [6,16]","Total: 2287 eyes of 1456 participants
+PM onset: 5 eyes of 4 participants (out of 2287 eyes from 1456 participants)
+PM progression: 51 eyes of 36 participants (18 eyes show progression)","PM onset: 57.0 ± 13.7 (of the 4 participants)
+
+PM progression: 59.1 ± 13.2 (of the 36 participants with PM at baseline)",PM progression: -14.6 ± 5.4D,"Mean AL at baseline:
+
+No progression:
+26.6 (S.D.: 2.8) (range: 22.5, 33.1)
+
+Eyes with diffuse chorioretinal atrophy at baseline:
+28.5 (S.D.: 0.7) (range: 27.8, 29.2)
+
+Eyes with diffuse and patchy chorioretinal atrophy at baseline:
+30.9 (S.D.: 1.8) (range: 29.6, 32.2)
+
+Eyes with other myopic maculopathy:
+27.6 (S.D.: 1.1) (range: 26.9, 28.9)","Subjective refraction wasperformed on all subjects whose visual acuity was worsethan 0.0 logMAR (Snellen 6/6 or 20/20) by trained and certified study optometrists. Autorefractor (KR8800; Topcon) eadings were used as the startingpoint, and refinement of sphere, cylinder, and axis was performed until the optimal visual acuity was obtained. ",(AL) was measured using a 10 MHz A/B-mode ultrasound device (Cine Scan),PM progression: 20 male eyes & 31 female eyes,2006-2007 to 2012,"colour fundus photography; at baseline, 45° digital stereoscopic color retinal photographs of Early Treatment Diabetic Retinopathy  standard  field  1  (centred  on  the  optic  disc, stereoscopic) and standard field 2 (centred on the macula, non-stereoscopic) were taken for each eye by trained and certified photographers. One third of the fundus pictures were taken with a Topcon TRC-NW6S/7S (Top-con, www.global.topcon.com) camera (during the initial stages of the baseline study). The other two-thirds were taken  with  a  Canon  CRDGi  with  a  20D  SLR  back (Canon,  www.canon.com).  In  the  follow-up  study,  a Canon CR 2 with a 20D SLR back (Canon, www.canon.com) was used for all the participants.","PM was defined as category 2 or above, or any of the plus lesions. Specifically, myopic maculopathy was classified as being present when any of the following  features  was  identified:  diffuse chorioretinal atrophy, patchy chorioretinal atrophy, macular atrophy, lacquer cracks or myopic choroidal neovascularization (CNV) at the posterior pole. Because Fuchs spot is a pigmented spot representing the scarring phase of myopic CNV, we included Fuchs spot in the myopic CNV category. Notably, posterior staphyloma was not classified as indicative of myopic maculopathy. 
+
+PM onset was defined as not having PM at baseline in either eye but PM in at least one eye at follow-up","defined as new signs of myopic maculopathy lesions, enlargement of the area of diffuse chorioretinal atrophy, patchy chorioretinal atrophy or macular atrophy, or an increase in the number of lacquer cracks in those who already had PM at baseline.
+
+Using ImageJ version1.49u software, they measured the area of lesion(s) and of the optic disc. The size of a lesion was expressed as area of the lesion divided by the area of the optic disc. The change in lesion size was calculated as the ratio of the size of lesion at follow-up divided its size at baseline. Thus, a ratio larger than 1 was indicative of enlargement of the lesion","Fundus photographs were graded by two graders (C.X.L,B.S.W) who had been trained for myopic maculopathy grading by a retinal specialist (K.O.M). The training involved three phases. Firstly, the two graders received instruction  on  grading  standard  fundus  photographs exhibiting myopic maculopathy from the specialist. Secondly, they underwent testing and further practice until they demonstrated excellent agreement with the specialist in grading myopic maculopathy (Weighted kappa values for all myopic maculopathy features were≥0.6). Finally,they were awarded certification",Yes,1,assumed to be 5years with little variation from it,Risk factors not statistically tested due to limited number of PM onset cases (5 eyes out of >1400 myopic eyes)!,"age;
+geder;
+education level;
+hypertension;
+baseline SER;
+SER difference between baseline and FU;
+height;
+weight;
+diabetes;
+smoking status;
+drinking;
+baseline AL;
+difference in AL between baseline and FU",Risk factors not statistically tested due to limited number of PM onset cases (5 eyes out of >1400 myopic eyes)!,assumed to be appropriate,Yes,Yes,This study does not look at risk factors,Risk factors not statistically tested due to limited number of PM onset cases (5 eyes out of >1400 myopic eyes)!,Yes,"All independent variables with p<0.1 included as independent factors in the multivariable model.
+
+Age (cont);
+Gender;
+Education level (illiteracy semi-literacy; primary school; middle school; high school; college);
+Hypertension (assumed to be binary; self-report);
+Baseline SER;
+Difference in SER between baseline and FU
+
+PS: in table 3 author does not report what level the presented odds ratio for educational level relate to; but from discussion it is understood that it refers two higher level of education. Also hypertension is assumed to binary",6830 participants at baseline —> 5394 still survived at 5-y FU —> 5078 had gradable fundus photos at both baseline and FU —> 1456 had myopia —> 36 participants (51 eyes) had PM at baseline,Risk factors not statistically tested due to limited number of PM onset cases (5 eyes out of >1400 myopic eyes)!,unclear,unclear,multivariable logistic regression,odds ratio,"Risk factors not statistically tested due to limited number of PM onset cases (5 eyes out of >1400 myopic eyes)!
+
+Incidence: participants 30+ years
+0.05% (95% CI, 0.02 – 0.10%)
+- participants 40+ years
+0.06% (95% CI, 0.02 – 0.12%)","Age (cont): 0.95 (95% CI: 0.89 to 1.01, p=0.12);
+female gender: 9.14 (95% CI: 2.01 to 41.62, p=0.004);
+(Higher, i.e. inferred from discussion) Educational level: 8.24 (95% CI: 1.94 to 34.91, p=0.004);
+presence of hypertension: 0.21 (95% CI: 0.06 to 0.76, p=0.017);
+Baseline SER (cont): 0.79 (95% CI: 0.70 to 0.90, p<0.0001);
+Difference n SER between baseline and FU: 1.0 (95% CI: 0.84 to 1.20, p=0.96）
+",Risk factors not statistically tested due to limited number of PM onset cases (5 eyes out of >1400 myopic eyes)!,Not reported (only p-values given),LOW risk of bias,"Of the 7557 eligible subjects at baseline, 6830 took part in the study (90.4% participation rate) which is way higher than our moderate ROB cutoff of 80%.
+https://www.sciencedirect.com/science/article/pii/S0161642008005484?via%3Dihub",LOW risk of bias,"Of the 6323 participants eligible to take part in the follow-up examination, only 929 were lost to follow-up (attrition rate=14.6%), which is lower than our 20% moderate ROB for follow-up length<10y. Moreover, there's adequate description of patient flow, etc.",LOW risk of bias,"No information on missing data for variables, but can probably assumed to be minimal given that most variables are easy to collect.",LOW risk of bias,"",LOW risk of bias,No information on missing data but unlikely to be an issue,MODERATE risk of bias,"Odds ratio for educational level is ambiguous: while in the Methods, the authors explain that educational level is a factor with multiple levels, namely  illiteracy/ semi-literacy, primary school, middle school, high school and college, in the table it seems that education is coded as a binary factor as only one level is presented (without explicit indication of whether it refers to higher or lower educational level, i.e this is only implied in the Results text)."
+170,Wong 2020,Six-Year Changes in Myopic Macular Degeneration in Adults of the Singapore Epidemiology of Eye Diseases Study.,Consensus,Wong et al. (2020),Six-Year Changes in Myopic Macular Degeneration in Adults of the Singapore Epidemiology of Eye Diseases Study,Case-control nested within 3 multi-ethnic population-based cohorts,Both,"Singapore (Chinse, Malay & Indian)","Inclusion: myopia at baseline (SER≤-0.50D); aged 40 years or older; with FU data at 6-year visit
+
+Exclusion: procedures that affected the native refractive state of the eye, such as a history of cataract surgery resulting in aphakia or pseudophakia, and/or self-reported refractive surgery in both eyes; missing refraction data in both eyes; combination of cataract surgery in one eye and missing refraction data in the other eye; missing or ungradable fundus photographs","population-based cohort studies (Singapore Chinese Eye Study, Singapore Malay Eye Study and Singapore Indian Eye Study) where study samples were representative of the general population in Singapore","recruitment officers sent letters of invitation, and conducted telephone calls and home visits to potential study participants. A person was considered “ineligible” to participate in the study if he/she had moved from the residing address, had not lived at the official address in the past six months, or was terminally ill (eg, cancer) or deceased. A person was deemed ‘not contactable’ after at least six unsuccessful telephone calls and six home visits. Participants who declined the initial invitation were re-contacted at later times, with at least one contact every six months. Apart from individualized communication with participants, we provided free transportation and pick-up services to participants who requested this, and used the media (television, local newspaper, community road shows) to publicize the study and increase participation.","For PM onset: 3373 eyes of 2009 px (eyes: 1681 Chinese, 731 Malays and 961 Indians)
+For PM progression: 288 eyes of 202 px (158 Chinese and 130 Malays + Indians)","Whole group: 54.2±8.4 (40-80)
+","Whole group: -2.9±2.8D (derived from worse eye, i.e. more severe MMD level or eye with higher myopia)
+","Whole group: 24.6±1.5mm (derived from worse eye, i.e. more severe MMD level or eye with higher myopia)
+","Autorefraction was performed using an auto-refractometer (model RK5; Canon, Inc., Ltd., Tochigiken, Japan). Refraction was then subjectively refined by the study optometrists until the BCVA was obtained. The results from subjective refraction were used in the analysis. The spherical equivalent (SE) of the refractive error was defined as sphere plus half cylinder. ","Axial length (AL) was measured using noncontact partial coherence interferometry (IOL Master V3.01; Carl Zeiss Meditec AG, Jena, Germany).","PM onset: 1532 males and 1841 females
+PM progression: 141 males and 147 females","Baseline studies: from 2004 to 2011
+- Singapore Malay Eye Study [2004–2006]
+- Singapore Indian Eye Study [2007–2009]
+- Singapore Chinese Eye Study [2009–2011]
+
+6-year follow-up studies: from 2010 to 2017 
+- Singapore Malay Eye Study 2 [2010–2013]
+- Singapore Indian Eye Study 2 [2013–2015]
+- Singapore Chinese Eye Study 2 [2015–2017]","After cycloplegia, color fundus photographs of Early Treatment Diabetic Retinopathy Study standard field 1 (centered on the optic disc) and Early Treatment Diabetic Retinopathy Study standard field 2 (centered on the fovea) were captured for each eye using standardized settings with a nonmydriatic retinal camera (Canon CR-DGi with 10D SLR back; Canon, Inc., Tokyo, Japan)","PM was defined as category 2,3 or 4, or any plus lesion (LC, FS, mCNV). PM onset was defined as the development of PM at 6-year FU in eyes without PM at baseline.","In eyes with PM, an increase from META-PM category grade 2 or 3 at baseline to either grade 3 or 4 and/or expansion of existing chorioretinal atrophy, development of a plus lesion or enlargement of an existing plus lesion at 6-year follow-up. The expansion of existing chorioretinal atrophy or plus lesion was defined by an enlargement of the area of chorioretinal atrophy or plus lesion by more than 50%. The area of the chorioretinal atrophy was assessed by ImageJ software.","A detailed fundus photo-graph grading was performed by a single trained grader(W.Y.L.). The fundus photographs of both eyes were graded using a standardized protocol, and the grader was masked to the subjects’ characteristics. Adjudication was performed by retinal specialist (W.C.W.).  The kappa statistics showed high inter-grader agreement (diagnosis of Meta-PM categories were 0.94 [between W.C.W. and W.Y.L.])",Yes,1 follow-up (6 years after baseline),not reported but assumed to have little variation from 6 years,"baseline cataract (binary);
+baseline age (cont); 
+ethnicity (Malay, Indian, Chinese); 
+Sex; 
+education level (two levels: primary/lower education & secondary/above education); 
+baseline SE (cont; per 1D); 
+baseline AL (cont; per 1mm); 
+Optic disc tilt at baseline (binary) <- defined as an oval optic disc with a tilt ratio (minimum diameter to maximum diameter) of less than 0.75","Severity of myopic maculopathy category at baseline (2 levels: category 2 & category 3 or 4);
+baseline cataract (binary);
+baseline age (cont); 
+ethnicity (Malay, Indian, Chinese); 
+Sex; 
+education level (two levels: primary/lower education & secondary/above education); 
+baseline SE (cont; per 1D); 
+baseline AL (cont; per 1mm);
+lacquer cracks at baseline (binary);
+peripapillary intrachoroidal cavitation at baseline (binary) <-  observed as anelevated, well-circumscribed, dome-shaped, yellow–orange lesion adjacent to the optic disc and PPA;
+Optic disc tilt at baseline (binary) <- defined as an oval optic disc with a tilt ratio (minimum diameter to maximum diameter) of less than 0.75",appropriate time interval (since the data were from cohort studies with very strict timeframe),appropriate time interval (since the data were from cohort studies with very strict timeframe),Yes,Yes,Yes,"baseline cataract (binary);
+baseline age (cont); 
+ethnicity (Malay, Indian, Chinese); 
+Sex; 
+education level (two levels: primary/lower education & secondary/above education); 
+baseline SE (cont; per 1D); 
+baseline AL (cont; per 1mm);",Yes,"Severity of myopic maculopathy category at baseline;
+baseline age (cont); 
+ethnicity (Malay, Indian, Chinese); 
+Sex; 
+education level (two levels: primary/lower education & secondary/above education); 
+baseline SE (cont; per 1D); 
+baseline AL (cont; per 1mm);","10,033 subjects at baseline —> 8716 remained after removing 1317 with the following conditions: procedures that affected native refractive state of eye, missing refraction data in both eyes, combination of cataract surgery in one eye and missing refraction data in another eye AND missing/ upgradable fundus photos —> only 3108 had myopia at baseline —> 2185 had follow-up data at 6-year visit —> 2157 had gradable fundus photos at both baseline and FU",Baseline cataract: 68 eyes with missing data,no missing data (for all variables included in multivariable model),no information; assumed to be complete case analysis,Multivariable poisson regression (using backward stepwise method); correlation between two eyes was accounted for using generalised estimating equations (incorporated within the regression models),adjusted risk ratio,"Cataract at baseline (present): 0.8 (95% CI: 0.3 to 2.1, p=0.65);
+
+baseline age (per 1 year): 1.1 (95% CI: 1.1 to 1.2, p<0.001);
+ethnicity (Chinese): 0.9 (95% CI: 0.4 to 2.5, p=0.91);
+
+ethnicity (Malay): 1.7 (95% CI: 0.6 to 5.0, p=0.30);
+
+Female sex: 1.5 (95% CI: 0.7 to 2.9, p=0.28);
+
+Baseline SE (i.e. per 1D change in myopic direction): 1.3 (95% CI: 1.1 to 1.4, p<0.001);
+
+Education level (primary/lower education): 1.0 (95% CI: 0.4 to 2.5, p=0.97)
+
+Baseline AL (per 1mm): 1.7 (95% CI: 1.3 to 2.3, p<0.001);
+
+PS: two multivariable models, i.e. one adjusted for AL, the other adjusted for SE where all presented variables (apart from baseline SE) were adjusted for baseline SE (not baseline AL)
+
+","severe MMD (category 3 or 4): 2.5 (95% CI: 1.3 to 4.9, p=0.009);
+
+Baseline age (per 1 year): 1.0 (95% CI: 1.0 to 1.0, p=0.33);
+
+Chinese ethnicity (non-chinese as reference): 0.7 (95% CI: 0.3 to 1.4, p=0.31);
+
+Female sex: 1.2 (95% CI: 0.6 to 2.2, p=0.55);
+
+baseline SE (i.e. per 1D change in myopic direction): 1.1 (95% CI: 1.0 to 1.1, p=0.02);
+
+baseline AL (per 1mm): 1.3 (95% CI: 1.0 to 1.6, p=0.02);
+
+Education level (primary/lower education): 0.6 (95% CI: 0.3 to 1.2, p=0.18);
+
+PS: two multivariable models, i.e. one adjusted for AL, the other adjusted for SE where all presented variables (apart from baseline SE) were adjusted for baseline SE (not baseline AL)
+
+PS: lacquer cracks at baseline and peripapillary intrachoroidal cavitation at baseline were both significantly associated with PM progression in invariable analysis but authors did not explain why they did not include these variables in the multivariable model!","Cataract at baseline (present): 2.7 (95% CI: 1.3 to 5.5, p=0.006);
+
+baseline age (per 1 year): 1.1 (95% CI: 1.1 to 1.1, p<0.001);
+
+ethnicity (Chinese): 1.4 (95% CI: 0.6 to 3.5, p=0.47);
+
+ethnicity (Malay): 1.6 (95% CI: 0.6 to 4.5, p=0.37);
+
+Female sex: 1.2 (95% CI: 0.6 to 2.5, p=0.57);
+
+Baseline SE (i.e. per 1D change in myopic direction): 1.2 (95% CI: 1.1 to 1.3, p=0.001);
+
+Education level (primary/lower education): 0.9 (95% CI: 0.4 to 1.8, p=0.78);
+
+Baseline AL (per 1mm): 1.5 (95% CI: 1.1 to 1.9, p=0.004);
+
+Optic disc tilt at baseline (yes): 2.0 (95% CI: 0.9 to 4.0, p=0.07)","severe MMD (category 3 or 4): 5.0 (95% CI: 3.1 to 8.2, p<0.001);
+
+Baseline age (per 1 year): 1.0 (95% CI: 0.9 to 1.0, p=0.02);
+
+Chinese ethnicity (non-chinese as reference): 0.5 (95% CI: 0.3 to 1.0, p=0.05);
+
+Female sex: 1.4 (95% CI: 0.7 to 2.7, p=0.32);
+
+baseline SE (i.e. per 1D change in myopic direction): 1.1 (95% CI: 1.1 to 1.2, p=0.001);
+
+baseline AL (per 1mm): 1.3 (95% CI: 1.1 to 1.5, p=0.001);
+
+Education level (primary/lower education): 0.6 (95% CI: 0.3 to 1.2, p=0.14);
+
+lacquer cracks at baseline (yes): 2.5 (95% CI: 1.3 to 4.7, p=0.005);
+
+optic disc tilt at baseline (yes): 2.0 (95% CI: 1.0 to 4.1, p=0.05);
+
+paripapillary intrachoroidal cavitation at baseline (yes): 2.6 (95% CI: 1.1 to 6.0, p=0.03);
+
+cataract at baseline (yes): 1.0 (95% CI: 0.6 to 1.9, p=0.95)",LOW risk of bias,"75.6% participation rate at baseline which is higher than our moderate ROB cutoff of 67%. Furthermore, target population, etc. is well described and can be reliably assumed to be representative of the general population.",LOW risk of bias,"Attrition rate after 6 years is 21.2% (78.8% of the 8584 remaining eligible participants at follow-up), which is quite close to being rated as having a low ROB. Detailed description and presentation of eligible participants vs eligible non-participants (at follow-up) are available (https://academic.oup.com/ije/article/50/1/41/6061452), and that the absolute differences between key characteristics like age (57.4 vs 57.3) & gender (female 52% vs female 50.9%) are small, the ROB is likely to be low.",LOW risk of bias,"All prognostic factors included in the multivariable model are complete (no missing data); for risk factors (only baseline cataract has missing information, i.e. 68 eyes). Given that all key characteristics like age, baseline AL, sex, baseline SE are complete, ROB is likely to be low in this regard.",LOW risk of bias,"",LOW risk of bias,"",LOW risk of bias,backward stepwise method for multivariable model building.
+159,Ueda 2020,Five-Year Incidence of Myopic Maculopathy in a General Japanese Population: The Hisayama Study.,Consensus,Ueda et al. (2020),Five-year incidence of myopic maculopathy in a general Japanese population: the Hisayama study,Case-control study nested in a population-based cohort study called the Hisayama study,Predictive (onset),"Hisayama, Japan (Japanese)","Inclusion: no PM at baseline, aged 40 years or older at baseline (criterion of the cohort study); attended follow-up examination 5 years after baseline; residents in the town of Hisayama
+Exclusion: missing or upgradable fundus photos in both eyes;",From existing population-based prospective cohort study called Hisayama study,Residents were encouraged to paticipate in the health checkup,"2164 patients (right eye analysed by default, but left eye analysed if only left eye developed PM at FU) —> of these 2164 participants, 27 eyes of 24 participants developed PM
+
+PS: included participants are not exclusively myopic!","Whole group: 62.4 ± 10.9
+
+Those who developed PM: 61.7 ± 11.2 ",whole group (mean and SD pooled across sex):  -0.71 ± 1.75D,whole group (mean and SD pooled across sex):  23.81 ± 1.4mm,Objective refraction with AR-660 automatic refractometer (Nidek) after pupil dilatation with 1.0% tropicamide and 10%phenylephrine.,IOLMaster; Carl Zeis,whole group: 920 male participants and 1244 female participants,"baseline: 2012
+FU: 2017",colour fundus photography: 45-degree Topcon digital fundus camera (DRI-OCT Triton; Topcon Corporation); centred at the midpoint between temporal edge of optic disc and fovea in both eyes,"PM was defined as: category 2 or above, or any of the 3 plus lesions (mCNV, Fuchs spot, Lacquer cracks)",NA,"All photographs were evaluated independently by 2 experienced ophthalmologists (E.U. and S.H.). When their judgments disagreed, the photographs were reexamined by 3 retinal specialists (E.U., S.H., and M.Y.), and the final judgment was determined after discussion. Graders were blinded to the clinical data of participants in the process of the photograph evaluation. The level of agreement between the graders was moderate (κ statistic: 0.86) to substantial for most features.",Yes,1,assumed to have little variation from 5 years,"Age (cont);
+Sex;
+AL (cont);
+SER (cont);
+height (cont);
+BMI (cont);
+systolic BP (cont);
+diastolic BP (cont);
+hypertension (binary) —> defined as systolic BP≥140mmHg and diastolic BP≥90mmHg, or current use of antihypertensive medication;
+diabetes (binary) —> defined as fasting plasma glucose level≥126.13mg/dL, a 2-hour post loading or random glucose level≥200mg/dL, or use of anti diabetic medication or insulin;
+Serum total cholesterol (cont; per 38.61mg/dL) —> determined enzymatically using an autoanalyzer;
+currently smoking (binary);
+currently drinking (binary);
+regular exercise (binary)",NA,assumed to be appropriate,NA,Yes,This study does not look at prognostic factors,Yes,"Age (cont);
+sex;
+AL (cont);",This study does not look at prognostic factors,"","4624 participants age≥40y/o in the town of Hisayama encouraged to partake in health checkup —> 2948 participants participated in eye exams —> 81 removed due to PM at baseline, 74 had missing or upgradable fundus photos in both eyes, 629 did not participate in FU —> 2164 remained",Unclear,NA,Unclear; no info on missing data,multivariable logistic regression with backward elimination procedure where variables with p<0.1 in univariable logistic regression was removed. SER not included in multivariable model due to multicollinearity (strong correlation with AL); only one eye per px included (RE by default unless LE was the only eye that developed PM),adjusted odds ratio,"Age (per 1y): 1.06 (95% CI: 1.01 to 1.11, p=0.01);
+sex (male; reference is female): 1.41 (95% CI: 0.58 to 3.42, p=0.45);
+AL (per mm): 2.94 (95% CI: 2.19 to 3.95, p<0.001)
+
+PS: authors also give age- and sex-adjusted ODs, CIs and p-values for all other risk factors (although not adjusted for AL)",NA,"* adjusted for age and sex
+
+Age (per 1y): 0.98 (95% CI: 0.94 to 1.03, p=0.49);
+sex (male; reference is female): 1.61 (95% CI: 0.72 to 3.62, p=0.24);
+AL (per mm): 2.94 (95% CI: 2.19 to 3.95, p<0.001);
+SER (per -1D): 1.53 (95% CI: 1.01 to 2.32, p=0.046);
+height (per cm): 0.96 (95% CI: 0.91 to 1.02, p=0.24);
+BMI (per 1): 1.02 (95% CI: 0.90 to 1.15, p=0.77);
+systolic BP (per 1mmHg): 0.99 (95% CI: 0.97 to 1.01, p=0.37);
+diastolic BP (per 1mmHg): 0.99 (95% CI: 0.95 to 1.03, p=0.54);
+hypertension (present): 0.88 (95% CI: 0.42 to 1.86, p=0.73);
+diabetes (present): 0.47 (95% CI: 0.11 to 2.10, p=0.32);
+serum total cholestorol (per 38.61mg/dL): 0.91 (95% CI: 0.58 to 1.44, p=0.69);
+current smoker: 0.59 (95% CI: 0.17 to 2.11, p=0.41);
+current drinker: 0.91 (95% CI: 0.38 to 2.20, p=0.83);
+regular exercise: 1.36 (95% CI: 0.50 to 3.70, p=0.55)",NA,MODERATE risk of bias,"Targeted participants are representative of the older general population; there's also adequate description of baseline study sample, period of recruitment. Participation rate is 63.8% (2948 accepted invitation out of 4624 ) which is lower than 67% but greater than 50% so moderate risk of bias.",MODERATE risk of bias,Attrition rate is 21.2% (629 participants lost to follow-up out of 2948 participants who completed baseline examination) which is higher than the 20% cutoff rate for a follow-up period of <10y (moderate ROB); no information on reasons and no comparison between  completed and non-completed participants.,LOW risk of bias,"",LOW risk of bias,"",LOW risk of bias,"No information on missing data but can be assumed to be minimal (if present) because variables included in the multivariable model are relatively easy to collect (age, sex and AL)",LOW risk of bias,"No information on missing data but can be assumed to be minimal (if present) because variables included in the multivariable model are relatively easy to collect (age, sex and AL). In the multivariable regression model, variables are included based on a backward elimination procedure."
+55,Hopf 2022,Five-Year Cumulative Incidence and Progression of Myopic Maculopathy in a German Population.,Consensus,Hopf et al. (2022),Five-year cumulative incidence and progression of myopic maculopathy in a German population,Case-control nested within a population-based cohort study. Rationale: sampling was NOT based on exposures but outcomes (PM onset/progression or no PM onset/progression) so NOT a retrospective cohort study,Both,"City of Mainz, Germany (presumed to be mostly German)","Inclusion: Phakic eyes; spherical equivalent ≤-6D at baseline; gradable fundus photographs at baseline and follow-up
+
+",Prospective population-based cohort study known as Gutenberg Health Study (GHS); conducted at the University Medical Center of the Johannes Gutenberg-University Mainz,"The study participants were selected randomly from local residents’ registration offices. According to German law, it is mandatory for each individual to register his/her personal and residential data within a week after moving to or from any location within Germany. Selected participants were contacted by letter and invited for the baseline examination. If they did not respond, then the recruitment team contacted them by phone. Persons, who were unable to come to the study center or did not want to participate, were asked to respond to some questions about demographics and their reasons for non-participation (non-responder questionnaire).","Whole group: 801 eyes of 519 participants.
+
+PM onset: 494 eyes of 323 participants.
+
+PM progression: 34 eyes of 27 subjects.","PM onset: 50.23 ± 9.17 (range probably 35 to 74).
+
+PM progression: 56.70 ± 9.08 (range probably 35 to 74)","PM onset (MEDIAN & IQR): RE -7.19 (-8.62, -6.25); LE -7.25 (-8.75, -6.50).
+ 
+PM progression (MEDIAN & IQR): RE -9.81 (-11.47, -7.47); LE -8.75 (-11.25, -7.25).","Baseline AL not reported. Hence AL at 5-y FU given below
+
+PM onset: RE 26.42 ± 1.24; LE 26.52 ± 1.27.
+
+PM progression: RE 28.44 ± 1.91; LE 28.40 ± 1.54. ",Objective refraction (not under cycloplegia); Humphrey Automated Refractor/Keratometer [HARK] 599; Carl Zeiss Meditec AG,"LenStar, Haag-Streit (only measured at 5-y follow-up)","Whole group: 174 male patients & 176 female patients
+
+PM onset: 159 male patients & 164 female patients
+
+PM progression: 15 male patients and 12 female patients","Baseline: April 2007 to March 2012
+FU:","colour fundus photography only; nonmydriatic fundus camera (Visucam PRO NM, Carl Zeiss AG) from both eyes with physiological pupils in a darkened room; the photographs relevant for the grading were 30-degree centred on the macula. In case of insufficient picture detail, photographs 45-degree centred on the optic nerve head were used","PM was defined as myopic maculopathy category 2 or above, or category 0/1 with plus lesions which include mCNV, Fuchs spot or lacquer crack) in BOTH eyes
+
+PM onset was defined as no PM at baseline but presence of PM at 5-y FU.","Increase in stage of myopic maculopathy, enlargement(s) of existing lesion, or new lesion(s) at a different spot at the posterior pole.
+
+PS: no mention of whether enlargement(s) was assessed qualitatively or quantitatively","Graded at Mainz Ophthalmic Reading Centre. Graded by 2 masked graders following META-PM (grading on progression kappa=0.77). In case of divergent findings, a retinal specialist make the decision in a consensus meeting. Baseline and 5-year follow-up fundus photographs of an eye were aligned next to each other in a random and masked sequence to grade each eye.",Yes,1 (5 years after baseline),Not reported but can assume negligible variation from 5 years,"Only 1 out of 323 participants developed PM over 5 years. Hence statistical analyses could not be performed!
+
+Formation of diffuse chorioretinal atrophy
+(only 0.3% (95% CI, 0.02 - 1.99; n = 1) or 1 in 323 highly myopic subjects)","Sex (binary);
+baseline age (cont);
+baseline IOP (cont);
+baseline SE (cont)",can be assumed to be appropriate,can be assumed to be appropriate,Yes,Yes,"Other: This study does not look at risk factors.
+
+Only 1 out of 323 participants developed PM over 5 years. Hence statistical analyses could not be performed!",Only 1 out of 323 participants developed PM over 5 years. Hence statistical analyses could not be performed!,Yes,"Sex (binary);
+baseline age (cont);
+baseline IOP (cont);
+baseline SE (cont)",15010 participants from Gutenberg Health Study —> 972 eyes of 621 participants were phakic and had SER ≤-6D at baseline —> 528 eyes of 350 participants had gradable fundus photos at baseline and follow-up,Only 1 out of 323 participants developed PM over 5 years. Hence statistical analyses could not be performed!,Not detailed; unclear,Not detailed; unclear,Multivariable logistic regression with generalised estimating equation,Odds ratio,"Only 1 out of 323 participants developed PM over 5 years. Hence statistical analyses could not be performed!
+
+(only 0.3% (95% CI, 0.02 - 1.99; n = 1) or 1 in 323 highly myopic subjects)","Female sex: 5.54 (95% CI: 0.93 to 32.92, p=0.06);
+Age (per year): 0.94 (95% CI: 0.88 to 1.02, p=0.134);
+IOP (per mmHg): 1.62 (95% CI: 1.51 to 1.59, p=0.035);
+SE (per D): 1.21 (95% CI: 0.99 to 1.49, p=0.063)
+
+PS: about 50% of eyes with PM at baseline progressed",Only 1 out of 323 participants developed PM over 5 years. Hence statistical analyses could not be performed!,not reported,MODERATE risk of bias,"Study population derived from a very large population-based cohort study with 15010 participants (Gutenberg Health Study) that are representative of the general population. However, initial participation rate (baseline) was 55.5% which is lower than the moderate ROB cutoff of 67% but higher than the high ROB cutoff of 50%.
+
+Selection criteria for the study sample is appropriate (high myopia defined as SER worse than 6D and phakic). ",LOW risk of bias,"Attrition rate was only 17.2% at the 5-year follow-up examination, which is lower than the moderate ROB cutoff of 20% for follow-up length <10y. Hence, low ROB although no information on reasons for lost to follow-up given, but this is this level of attrition is not likely to be an issue.
+
+Furthermore, 102 participants out of 621 eligible participants were not included due to upgradable fundus images, but included and excluded participants did not differ in their characteristics.",LOW risk of bias,"SER measured with auto refractor without cycloplegia: not an issue because participants were at least 35 years old. No information on missing data for prognostic factors but not likely to have any significant proportion of people with missing data as variables included in this study were relatively easy to collect, i.e. age, sex, SER (auto-refraction), AL and IOP.",LOW risk of bias,"",LOW risk of bias,"",LOW risk of bias,""
